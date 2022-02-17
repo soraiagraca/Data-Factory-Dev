@@ -1,0 +1,9 @@
+{
+	"name": "Lab01-soraia-adf",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2b3d1807-4c7e-4fc4-a9ce-76305d8916e1",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
