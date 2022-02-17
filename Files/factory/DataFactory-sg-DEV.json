@@ -1,0 +1,9 @@
+{
+	"name": "DataFactory-sg-DEV",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cb4bcf89-24dc-49bf-bb7f-215137a495d0",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
